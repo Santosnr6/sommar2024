@@ -1,5 +1,9 @@
 # FE 23 Karlstad - Inför sommaren 2024
 
+## Inspelad info med Kristina
+https://folkuniversitetet-se.zoom.us/rec/share/9m6RmeuHZpmZb4jQgGxDdaOhFTtWDoF8T18bfHNdWEmhHM9ZbCtn_S_Xm9piTEgs.5_jjcG-s0RaxB7H9
+Lösenkod:Q&.L9W1+
+
 ## Viktigt att kunna flytande inför hösten
 ### HTML & CSS
 Nästan allting vi gör börjar och slutar med HTML och CSS. Vi använde det i JavaScript, vi använde det i React, och ni kommer använda det igen återkommande under hela nästa termin. I höst måste det sitta. 
