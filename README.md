@@ -34,6 +34,21 @@ Nästan ett krav kan jag tycka. Fungerar som dels en plattform där ni kan länk
 #### ChatGPT
 Be vår gamle vän borta på OpenAI om hjälp att generera fram förslag på webbapplikationer/spel som ni kan bygga.
 
+#### Card Game
+Länk till uppgiften [hittar ni här](https://github.com/Santosnr6/card-game.git)
+
+#### Sinus Mini Shop
+Länk till uppgiften [hittar ni här](https://github.com/Santosnr6/SinusMiniShop)
+
+#### Star Wars Project
+Länk till uppgiften [hittar ni här](https://github.com/Santosnr6/star-wars-assignment/tree/main)
+
+#### Monster Generator
+Länk till uppgiften [hittar ni här](https://github.com/Santosnr6/monster-generator)
+
+#### Backend med Node (kompletteringsuppgift)
+Länk till uppgifter [hittar ni här](https://github.com/Santosnr6/backend_komplettering)
+
 ## Vidareutveckling
 
 ### Tekniker
